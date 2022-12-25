@@ -1,7 +1,7 @@
-# Projeto MAPADEV WEEK: Mini Portifólio
+# MAPADEV WEEK Project: Mini Portfolio
 
-Este projeto foi realizado durante o evento **Mapadev Week** do canal [Dev em Dobro](https://youtube.com/@DevemDobro), onde aprendemos coisas preciosas sobre desenvolvimento web construindo um **mini portifólio** com **HTML, CSS e JS**.
+This project was carried out during the **Mapadev Week** event on the channel [Dev em Dobro](https://youtube.com/@DevemDobro), where we learned precious things about web development by building a **mini portfolio** with * *HTML, CSS and JS**.
 
-Eu não era tão experiente com **HTML** nem com **CSS**, mas quando se constrói um projeto, mesmo que simples, com esses gêmeos, é impossível não aprender alguma coisa. No meu caso, melhorei muito na construção de páginas web e hoje já consigo resolver desafios mais complexos do [Frontend Mentor](https://frontendmentor.io). Você pode encontrar essas soluções no meu perfil.
+I wasn't that experienced with **HTML** nor **CSS**, but when you build even a simple project with these twins, it's impossible not to learn something. In my case, I improved a lot in building web pages and today I can solve more complex [Frontend Mentor](https://frontendmentor.io) challenges. You can find these solutions on my profile.
 
-Muito obrigado gêmeos! 
+THANK YOU SO MUCH TWINS!!!
